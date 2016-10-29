@@ -6,3 +6,4 @@ C:\Users\SITE\repos\curso-fsw\EjemploProyecto\EjemploProyecto\obj\Debug\EjemploP
 C:\Users\SITE\repos\curso-fsw\EjemploProyecto\EjemploProyecto\obj\Debug\EjemploProyecto.csproj.GenerateResource.Cache
 C:\Users\SITE\repos\curso-fsw\EjemploProyecto\EjemploProyecto\obj\Debug\EjemploProyecto.exe
 C:\Users\SITE\repos\curso-fsw\EjemploProyecto\EjemploProyecto\obj\Debug\EjemploProyecto.pdb
+C:\Users\SITE\repos\curso-fsw\EjemploProyecto\EjemploProyecto\obj\Debug\EjemploProyecto.Form1.resources
